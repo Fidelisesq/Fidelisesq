@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Fidelis and I just started learning Cloud/DevOps Engineering 👋
 
 <!--
 **Fidelisesq/Fidelisesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
