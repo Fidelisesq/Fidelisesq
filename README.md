@@ -6,7 +6,9 @@ Hi there, I'm Fidelis and I just started learning Cloud/DevOps Engineering 👋
 - 💬 Ask me about my journey so far
 - 📫 How to reach me: coming soon
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love watching football
+- ⚡ Fun fact: I love watching football and I write stuffs when I feel like
   
 **Social**
-LinkedIn: https://www.linkedin.com/in/fidelis-ikoroje/
+- LinkedIn: https://www.linkedin.com/in/fidelis-ikoroje/
+
+- Blog: https://dev.to/fidelisesq
