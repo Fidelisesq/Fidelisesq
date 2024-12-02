@@ -8,7 +8,6 @@ Hi there, I'm Fidelis and I just started learning Cloud/DevOps Engineering 👋
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching football and I write stuffs when I feel like
   
-**Social**
+**Socials**
 - LinkedIn: https://www.linkedin.com/in/fidelis-ikoroje/
-
 - Blog: https://dev.to/fidelisesq
