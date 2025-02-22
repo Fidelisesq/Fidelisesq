@@ -4,7 +4,7 @@ Hi there, I'm Fidelis and I just started learning Cloud/DevOps Engineering 👋
 - 👯 I’m looking to collaborate with people of similar interests
 - 🤔 I’m looking for help with AWS/CICD projects
 - 💬 Ask me about my journey so far
-- 📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/fidelis-ikoroje/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fidelis-ikoroje/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching football and I write stuffs when I feel like
   
