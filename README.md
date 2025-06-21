@@ -1,4 +1,4 @@
-Hi there, I'm Fidelis and I just started learning Cloud/DevOps Engineering 👋
+Hi there, I'm Fidelis and I document my Cloud/DevOps learning and project here.
 - 🔭 I’m currently working on different tools & technologies for Cloud/DevOps
 - 🌱 I’m currently learning CICD, digging on Terraform
 - 👯 I’m looking to collaborate with people of similar interests
