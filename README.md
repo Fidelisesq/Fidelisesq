@@ -57,4 +57,4 @@ Built a public resume website hosted on S3 and delivered via CloudFront. Integra
 
 ### 📫 Get in Touch
 📧 fidelis.ikoroje@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/fidelis-ikoroje) | [GitHub](https://github.com/Fidelisesq)
+🔗 [LinkedIn](https://www.linkedin.com/in/fidelis-ikoroje) | [Dev.to](https://dev.to/fidelisesq) | [AWS Page](https://builder.aws.com/content/2xldyFDXn5Tkkeg5A4yEK6hQDXx/serverless-image-resizer-on-aws)
