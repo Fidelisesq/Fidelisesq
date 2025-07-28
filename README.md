@@ -3,7 +3,7 @@ Cloud & DevOps Engineer | AWS • Azure • Terraform • Infrastructure Enginee
 
 🔧 I am now focused on Cloud, DevOps and Infrastructure Engineering full-time, and I’m passionate about solving real-world problems through scalable, secure cloud architectures.
 
-I’m currently working with **Grupp** as an DevOps Engineer, building and automating systems using AWS, Terraform, GitHub Actions, and Kubernetes.
+I’m currently working with **Grupp** as a DevOps Engineer, building and automating systems using AWS, Terraform, GitHub Actions, and Kubernetes.
 
 ---
 
