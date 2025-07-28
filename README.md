@@ -21,14 +21,21 @@ Developed and deployed a web-based 2048 puzzle game using HTML/CSS/JavaScript, h
 
 ---
 
-#### 🔹 Serverless Image Resizer on AWS (Live + Source)
-Built using AWS Lambda, S3, API Gateway, and Sharp. Users can upload images securely and receive dynamically resized versions via CloudFront.  
-- Deployed via **Terraform**
-- Integrated **CI/CD with GitHub Actions**
-- Protected with **CloudFront OAC** and **WAF**
+#### 🔹 Serverless Image Resizer with AWS & CI/CD
+
+Built a dynamic image resizing solution using a fully serverless stack on AWS. The app resizes images on-the-fly via API and delivers them globally. Integrated:
+
+* S3 for storing original and resized images
+* Lambda (Sharp) for real-time image processing
+* API Gateway for secure routing
+* CloudFront for fast global delivery
+* Terraform for reproducible infrastructure
+* GitHub Actions for CI/CD automation
+* Bootstrap + Select2 + Handlebars.js for a clean frontend UI
 
 🔗 [Live Site](https://image-resizer.fozdigitalz.com)  
 🔗 [Source Code](https://github.com/Fidelisesq/serverless-image-resizer)
+
 ---
 
 #### 🔹 Cloud Resume Challenge (Fully Serverless)
