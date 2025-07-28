@@ -26,7 +26,9 @@ Built using AWS Lambda, S3, API Gateway, and Sharp. Users can upload images secu
 - Deployed via **Terraform**
 - Integrated **CI/CD with GitHub Actions**
 - Protected with **CloudFront OAC** and **WAF**
-🔗 [View Repository](https://github.com/Fidelisesq/serverless-image-resizer)
+
+🔗 [Live Site](https://image-resizer.fozdigitalz.com)  
+🔗 [Source Code](https://github.com/Fidelisesq/serverless-image-resizer)
 ---
 
 #### 🔹 Cloud Resume Challenge (Fully Serverless)
@@ -35,18 +37,23 @@ Built a public resume website hosted on S3 and delivered via CloudFront. Integra
 - DynamoDB + Python
 - GitHub Actions for CI/CD deployments
 
-🔗 [Live Site](https://your-resume-url.com)  
-🔗 [Source Code](https://github.com/Fidelisesq/cloud-resume-challenge)
+🔗 [Source Code](https://github.com/Fidelisesq/AWS-Cloud-Resume)
 
 ---
 
-#### 🔹 Multi-Tier Web Architecture on AWS
-Provisioned a scalable production environment using:
-- Auto Scaling Groups
-- ALB, EC2, RDS, ElastiCache
-- Fully Infrastructure-as-Code with Terraform
+#### 🔹 DeepSeek R1 LLM Deployment on AWS with WebUI & API Access
 
-🔗 [Code & Architecture Diagrams](https://github.com/Fidelisesq/aws-multi-tier-arch)
+Deployed the DeepSeek Model R1 on AWS, accessible via a secure web interface (OpenWebUI) and API (Ollama). Provisioned using Terraform with:
+
+* EC2 (private subnet) hosting Dockerized LLM runtime
+* SSM + VPC Endpoints for secure, keyless shell access
+* ALB for HTTPS access and traffic routing
+* Route 53 + ACM for custom domain and SSL cert
+* IAM roles + SGs for tight access control
+* Terraform S3 backend for remote state
+* AWS WAF to filter bad traffic at the edge
+
+🔗[Source Code](https://github.com/Fidelisesq/DeepSeekR1-AWS-GitHubActions-Terraform/tree/main)
 
 ---
 
