@@ -37,12 +37,17 @@ Built a dynamic image resizing solution using a fully serverless stack on AWS. T
 🔗 [Source Code](https://github.com/Fidelisesq/serverless-image-resizer)
 
 ---
+#### 🔹 AWS Serverless Cloud Resume with Full CI/CD & Monitoring
 
-#### 🔹 Cloud Resume Challenge (Fully Serverless)
-Built a public resume website hosted on S3 and delivered via CloudFront. Integrated:
-- API Gateway + Lambda for visitor tracking
-- DynamoDB + Python
-- GitHub Actions for CI/CD deployments
+Designed and deployed a secure, globally available resume website using a fully serverless AWS architecture. Highlights include:
+
+* **S3 + CloudFront** for static site hosting and fast global delivery
+* **Lambda + API Gateway + DynamoDB** for dynamic visitor tracking
+* **Terraform** for infrastructure as code and state management via S3
+* **GitHub Actions** for automated CI/CD pipeline
+* **CloudWatch, SNS, PagerDuty & Slack** for real-time monitoring and alerts
+* **Route53 + DNSSEC + AWS WAF** for DNS management and enhanced website security
+* **Cypress** for end-to-end testing of site and backend functionality
 
 🔗 [Source Code](https://github.com/Fidelisesq/AWS-Cloud-Resume)
 
