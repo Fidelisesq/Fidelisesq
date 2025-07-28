@@ -70,8 +70,8 @@ Deployed the DeepSeek Model R1 on AWS, accessible via a secure web interface (Op
 ---
 
 ### 🧰 My Toolbox
-**Cloud:** AWS, Azure, GCP
-**IaC & Automation:** Terraform, GitHub Actions, Ansible  
+**Cloud:** AWS, Azure, GCP  
+**IaC & Automation:** Terraform, GitHub Actions, Ansible   
 **Containerization:** Docker, Kubernetes (EKS)  
 **Monitoring:** Prometheus, Grafana, Splunk  
 **Languages:** Python, Bash, Javascript
