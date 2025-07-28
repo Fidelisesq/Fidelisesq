@@ -74,7 +74,7 @@ Deployed the DeepSeek Model R1 on AWS, accessible via a secure web interface (Op
 **IaC & Automation:** Terraform, GitHub Actions, Ansible  
 **Containerization:** Docker, Kubernetes (EKS)  
 **Monitoring:** Prometheus, Grafana, Splunk  
-**Languages:** Python, Bash  
+**Languages:** Python, Bash, Javascript
 **Certifications:**  
 - AWS Developer Associate (2025)  
 - AWS Solutions Architect Associate (2024)  
