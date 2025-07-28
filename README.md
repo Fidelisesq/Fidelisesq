@@ -18,6 +18,7 @@ Developed and deployed a web-based 2048 puzzle game using HTML/CSS/JavaScript, h
 
 🔗 [Live Site](https://play-2048.fozdigitalz.com)  
 🔗 [Source Code](https://github.com/Fidelisesq/2048-Game-with-AWS-CloudFront-CI-CD-Pipeline)
+
 ---
 
 #### 🔹 Serverless Image Resizer on AWS (Live + Source)
@@ -36,6 +37,7 @@ Built a public resume website hosted on S3 and delivered via CloudFront. Integra
 
 🔗 [Live Site](https://your-resume-url.com)  
 🔗 [Source Code](https://github.com/Fidelisesq/cloud-resume-challenge)
+
 ---
 
 #### 🔹 Multi-Tier Web Architecture on AWS
@@ -45,6 +47,7 @@ Provisioned a scalable production environment using:
 - Fully Infrastructure-as-Code with Terraform
 
 🔗 [Code & Architecture Diagrams](https://github.com/Fidelisesq/aws-multi-tier-arch)
+
 ---
 
 ### 🧰 My Toolbox
