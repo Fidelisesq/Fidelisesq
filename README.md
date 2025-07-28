@@ -81,4 +81,4 @@ Deployed the DeepSeek Model R1 on AWS, accessible via a secure web interface (Op
 
 ### 📫 Get in Touch
 📧 fidelis.ikoroje@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/fidelis-ikoroje) | [Dev.to](https://dev.to/fidelisesq) | [AWS Page](https://builder.aws.com/content/2xldyFDXn5Tkkeg5A4yEK6hQDXx/serverless-image-resizer-on-aws)
+🔗 [LinkedIn](https://www.linkedin.com/in/fidelis-ikoroje) | [Dev.to](https://dev.to/fidelisesq) | [AWS Blog](https://builder.aws.com/community/@fidelisesq)
