@@ -15,6 +15,7 @@ Developed and deployed a web-based 2048 puzzle game using HTML/CSS/JavaScript, h
 * GitHub Actions for automated CI/CD deployments
 * Route 53 + ACM for secure DNS management
 * Lambda\@Edge for injecting security headers
+* Cloudfront for global CDN and caching
 
 🔗 [Live Site](https://play-2048.fozdigitalz.com)  
 🔗 [Source Code](https://github.com/Fidelisesq/2048-Game-with-AWS-CloudFront-CI-CD-Pipeline)
