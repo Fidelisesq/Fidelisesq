@@ -10,12 +10,12 @@ I’m currently working with **Grupp** as a DevOps Engineer, building and automa
 ### 🛠️ Featured Projects
 #### 🔹 2048 Game with AWS CloudFront & CI/CD Pipeline
 Developed and deployed a web-based 2048 puzzle game using HTML/CSS/JavaScript, hosted on AWS S3 and delivered via CloudFront with custom domain and HTTPS. Integrated:
-* API Gateway + Lambda for game event tracking
-* DynamoDB for milestone and player score storage
-* GitHub Actions for automated CI/CD deployments
-* Route 53 + ACM for secure DNS management
-* Lambda\@Edge for injecting security headers
-* Cloudfront for global CDN and caching
+* **API Gateway** + **Lambda** for game event tracking
+* **DynamoDB** for milestone and player score storage
+* **GitHub Actions** for automated CI/CD deployments
+* **Route53** + **ACM** for secure DNS management
+* **Lambda@Edge** for injecting security headers
+* **Cloudfront** for global **CDN** and caching
 
 🔗 [Live Site](https://play-2048.fozdigitalz.com)  
 🔗 [Source Code](https://github.com/Fidelisesq/2048-Game-with-AWS-CloudFront-CI-CD-Pipeline)
@@ -26,13 +26,13 @@ Developed and deployed a web-based 2048 puzzle game using HTML/CSS/JavaScript, h
 
 Built a dynamic image resizing solution using a fully serverless stack on AWS. The app resizes images on-the-fly via API and delivers them globally. Integrated:
 
-* S3 for storing original and resized images
-* Lambda (Sharp) for real-time image processing
-* API Gateway for secure routing
-* CloudFront for fast global delivery
-* Terraform for reproducible infrastructure
-* GitHub Actions for CI/CD automation
-* Bootstrap + Select2 + Handlebars.js for a clean frontend UI
+* **S3** for storing original and resized images
+* **Lambda** (Sharp) for real-time image processing
+* **API Gateway** for secure routing
+* **CloudFront** for fast global delivery
+* **Terraform** for reproducible infrastructure
+* **GitHub Actions** for **CI/CD** automation
+* **Bootstrap + Select2 + Handlebars.js** for a clean frontend UI
 
 🔗 [Live Site](https://image-resizer.fozdigitalz.com)  
 🔗 [Source Code](https://github.com/Fidelisesq/serverless-image-resizer)
@@ -58,13 +58,13 @@ Designed and deployed a secure, globally available resume website using a fully 
 
 Deployed the DeepSeek Model R1 on AWS, accessible via a secure web interface (OpenWebUI) and API (Ollama). Provisioned using Terraform with:
 
-* EC2 (private subnet) hosting Dockerized LLM runtime
-* SSM + VPC Endpoints for secure, keyless shell access
-* ALB for HTTPS access and traffic routing
-* Route 53 + ACM for custom domain and SSL cert
-* IAM roles + SGs for tight access control
-* Terraform S3 backend for remote state
-* AWS WAF to filter bad traffic at the edge
+* **EC2** (private subnet) hosting **Dockerized LLM runtime**
+* **SSM** + **VPC Endpoints** for secure, keyless shell access
+* **ALB** for HTTPS access and traffic routing
+* **Route5**3 + **ACM** for custom domain and SSL cert
+* **IAM roles** + **SGs** for tight access control
+* **Terraform S3 backend** for remote state
+* **AWS WAF** to filter bad traffic at the edge
 
 🔗[Source Code](https://github.com/Fidelisesq/DeepSeekR1-AWS-GitHubActions-Terraform/tree/main)
 
