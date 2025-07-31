@@ -87,4 +87,4 @@ Deployed the DeepSeek Model R1 on AWS, accessible via a secure web interface (Op
 
 ### 📫 Get in Touch
 📧 fidelis.ikoroje@gmail.com  
-🔗 [Website](https://fidelis.fozdigitalz.com) | [LinkedIn](https://www.linkedin.com/in/fidelis-ikoroje)  [Dev.to Blog](https://dev.to/fidelisesq) | [AWS Blog](https://builder.aws.com/community/@fidelisesq)
+🔗 [Website](https://fidelis.fozdigitalz.com) | [LinkedIn](https://www.linkedin.com/in/fidelis-ikoroje) | [Dev.to Blog](https://dev.to/fidelisesq) | [AWS Blog](https://builder.aws.com/community/@fidelisesq)
